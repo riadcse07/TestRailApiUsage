@@ -18,7 +18,7 @@ Step 1: First put your testrail url , username and password in setting.conf file
 	
   The command should be like
   
-  - BuildAndRunJavaProject.sh "yourTestrailUserName" "YourtestrailPassword" "YourTestrailUrl"
+        - BuildAndRunJavaProject.sh "yourTestrailUserName" "YourtestrailPassword" "YourTestrailUrl"
 	
   
 Cheers !!!!
