@@ -39,4 +39,4 @@ java \
   -Dxx.home="$XX_HOME" \
   -Duser.dir="$XX_HOME" \
   -cp "$client_classpath" \
-  "$mainclass" $DIR $1 $2
+  "$mainclass" $DIR $1 $2 $3
